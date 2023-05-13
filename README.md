@@ -1,4 +1,8 @@
-# Traffic Simulator
+This simulation code and design was borrowed from user BilHim's traffic simulator. Links to the original project and how to contribute are found below.
+
+---
+
+# Traffic Simulator (BilHim)
 
 ## Important!
 
